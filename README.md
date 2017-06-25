@@ -6,8 +6,9 @@ Es un eficiente metodo para obtener credenciales creando un phishing. Aqui se pu
 ## Prerequisito
 1. Un servidor xampp o wamp
 2. Un correo electronico 
-3. Crear una base de datos en phpmyadmin con la base de datos, la tabla y los campos de los archivos connect.php y save.php.
-4. En caso de falla actualizar login.php con el codigo fuente de la pagina y cambiar los datos en la etiqueta form.
+3. Contar con la carpeta phpmailer
+4. Crear una base de datos en phpmyadmin con la base de datos, la tabla y los campos de los archivos connect.php y save.php.
+5. En caso de falla actualizar login.php con el codigo fuente de la pagina y cambiar los datos en la etiqueta form.
 
 
 Nota: **No me hago responsable por el mal uso que puedan darle.**
